@@ -1,31 +1,39 @@
-# Landucci Hair Studio - Site para salão de cabeleireiro
+## 💇‍♀️ Landucci Hair Studio - Site para Salão de Beleza
+Bem-vindo ao repositório oficial do projeto Landucci Hair Studio! ✨ Um site totalmente personalizado, desenvolvido para refletir a sofisticação e a arte de um salão de beleza de alto padrão.
 
-Repositório do projeto **Landucci Hair Studio**, um site desenvolvido sob medida para um cliente da área de cabeleireiro, com foco em design sofisticado e atendimento personalizado.
+## 🌟 Sobre o Projeto
+A pedido do cliente, o site foi concebido com um design elegante e uma paleta de cores focada em dourado e branco, transmitindo uma atmosfera de luxo e exclusividade. Para criar uma conexão mais pessoal e acolhedora com os visitantes, incluímos uma seção que conta a história e a paixão por trás do salão.
 
-## Sobre o projeto
+O site detalha os serviços oferecidos, desde cortes e tratamentos a penteados especiais, e exibe uma galeria de trabalhos para demonstrar a qualidade e o estilo que definem o Landucci Hair Studio.
 
-O cliente solicitou um site elegante, com uma paleta de cores voltada para tons de **dourado** e **branco**, para transmitir sofisticação e exclusividade. Além disso, pediu uma breve descrição sobre o salão e sua história, para criar uma conexão mais próxima com os visitantes.
+## 🛠️ Detalhes Técnicos e de Desenvolvimento
+-  Duração: Aproximadamente 2 semanas de desenvolvimento dedicado.
 
-O site também apresenta uma seção detalhada de serviços oferecidos, destacando os tratamentos e cortes disponíveis, além de uma galeria com alguns trabalhos já realizados pelo salão, mostrando a qualidade e o estilo dos serviços.
+-  Paleta de Cores: Dourado (#D4AF37), Branco (#FFFFFF) e tons neutros para harmonia.
 
-## Detalhes do desenvolvimento
+-  Funcionalidades Principais:
 
-- **Duração:** Cerca de 2 semanas de desenvolvimento dedicado e refinado.
-- **Cores predominantes:** Dourado e branco, conforme preferência do cliente.
-- **Funcionalidades principais:**
-  - Página inicial com design atraente e chamativo
-  - Breve descrição do salão e sua história
-  - Seção completa de serviços oferecidos
-  - Galeria de fotos com exemplos de trabalhos realizados
-  - Formulário de contato para agendamento e dúvidas
-- **Design:** Responsivo, moderno e focado na experiência do usuário em diferentes dispositivos.
-- **Tecnologias utilizadas:** (adicione as tecnologias que usou, ex: HTML5, CSS3, JavaScript, Bootstrap, React, etc.)
+-  Página inicial com design atraente e imersivo.
 
-## Objetivo
+-  Seção "Sobre Nós" com a história do salão.
 
-Criar uma presença online que reflita o profissionalismo e a elegância do Landucci Hair Studio, facilitando o acesso às informações para clientes e promovendo os serviços do salão de forma clara e visualmente atraente.
+-  Catálogo de serviços completo e detalhado.
 
----
+-  Galeria de trabalhos para inspirar os clientes.
+
+- Formulário de contato para agendamentos e dúvidas.
+
+-  Design Responsivo: Experiência de usuário fluida e adaptável a desktops, tablets e smartphones.
+  
+## 💻 Tecnologias Utilizadas:
+
+HTML5: Para a estrutura semântica do conteúdo.
+
+CSS3: Para estilização avançada, animações e layout.
+
+
+## 🎯 Objetivo
+Desenvolver uma presença digital que não apenas reflita o profissionalismo e a elegância do Landucci Hair Studio, mas que também sirva como uma ferramenta eficaz para atrair novos clientes, facilitar o agendamento e apresentar o portfólio do salão de forma visualmente deslumbrante.
 
 ## 📂 Estrutura de Pastas
 
@@ -33,15 +41,24 @@ A organização das pastas pode seguir a seguinte estrutura (sugestão):
 
 ```
 /
+├── 📁 arquivos/
+│   ├── 🖼️ fotos/
+│   └── 📹 videos/
+├── 📁 css/
+│   ├── 🎨 hotbar.css
+│   ├── 🎨 index.css
+│   ├── 🎨 politica-devolucao.css
+│   ├── 🎨 politica-privacidade.css
+│   ├── 🎨 procedimentos.css
+│   └── 🎨 servicos.css
 ├── 📄 README.md
-├── 📁 imagens/
-│   ├── 🖼️ logo.png
-│   └── 🖼️ background.jpg
-├── 📁 icones/
-│   ├── ✨ icone-usuario.svg
-│   └── ✨ icone-configuracoes.svg
-└── 📁 videos/
-    └── 📹 video-apresentacao.mp4
+├── 📄 hotbar.html
+├── 📄 index.html
+├── 📄 politica-devolucao.html
+├── 📄 politica-privacidade.html
+├── 📄 procedimentos.html
+└── 📄 servicos.html
+
 ```
 
 ## 🚀 Como Adicionar Novos Arquivos
@@ -62,5 +79,3 @@ git push origin main
 ```
 
 ---
-
-*Este é um repositório pessoal para fins de organização e estudo.*
