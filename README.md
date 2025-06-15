@@ -61,21 +61,20 @@ A organização das pastas pode seguir a seguinte estrutura (sugestão):
 
 ```
 
-## 🚀 Como Adicionar Novos Arquivos
+## 🚀 Como Executar o Projeto
 
-1.  Coloque o novo arquivo na pasta correspondente (crie a pasta se ela não existir).
-2.  Abra o terminal na pasta do projeto.
-3.  Execute os seguintes comandos para enviar o arquivo para o GitHub:
+Este é um projeto de site estático (HTML, CSS), então você não precisa de um servidor ou de Python. **Apenas um navegador de internet!**
 
-```bash
-# Adiciona todos os novos arquivos e modificações
-git add .
-
-# Cria um "ponto de salvamento" com uma mensagem descritiva
-git commit -m "Adiciona novo arquivo: [nome-do-arquivo]"
-
-# Envia as alterações para o repositório no GitHub
-git push origin main
-```
+1.  **Obtenha os Arquivos**
+    
+    Clone ou baixe este repositório para o seu computador.
+    
+2.  **Encontre o Arquivo Principal**
+    
+    Navegue com seu explorador de arquivos (Windows Explorer, Finder, etc.) até a pasta do projeto que você baixou. O arquivo principal da página é o `index.html`.
+    
+3.  **Abra no Navegador**
+    
+    Dê um duplo-clique no arquivo `index.html`. Ele será aberto diretamente no seu navegador padrão (**Google Chrome**, **Firefox**, **Edge**, etc.) e o site estará visível e funcional.
 
 ---
